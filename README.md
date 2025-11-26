@@ -73,8 +73,8 @@
         <section>
             <h3>Контакты</h3>
             <ul>
-                <li>Email: example@mail.ru</li>
-                <li>Телефон: +7 (000) 000-00-00</li>
+                <li>Email: tatanalukovnikova4@gmail.com</li>
+                <li>Телефон: +79149000207</li>
                 <li>GitHub: <a href="https://github.com/" target="_blank">перейти</a></li>
             </ul>
         </section>
