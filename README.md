@@ -1,4 +1,3 @@
-# resume-tatyana-lukovnikova
 <!DOCTYPE html>
 <html lang="ru">
 <head>
@@ -49,7 +48,6 @@
         }
     </style>
 </head>
-
 <body>
 
 <header>
@@ -66,15 +64,15 @@
 
     <article id="about">
         <h2>Обо мне</h2>
-        <img src="https://placekitten.com/300/300" alt="Фото Татьяны Луковниковой">
+        <img src="https://placekitten.com/300/300" alt="Фото Татьяны Луковниковой" />
         <p>Меня зовут <strong>Татьяна Луковникова</strong>. Я обучаюсь по специальности <strong>«Таможенное дело»</strong>. 
         Интересуюсь международной логистикой, правилами оформления документов и таможенными процедурами.</p>
 
         <section>
             <h3>Контакты</h3>
             <ul>
-                <li>Email: tatanalukovnikova4@gmail.com</li>
-                <li>Телефон: +79149000207</li>
+                <li>Email: example@mail.ru</li>
+                <li>Телефон: +7 (000) 000-00-00</li>
                 <li>GitHub: <a href="https://github.com/" target="_blank">перейти</a></li>
             </ul>
         </section>
